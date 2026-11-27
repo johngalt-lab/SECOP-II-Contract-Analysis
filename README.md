@@ -17,4 +17,9 @@ Here I do a bit of cleaning up of the dataset and describe what I can see with s
     - By "modalidad_de_contratacion" Licitación pública and "Contratación con regimen especial" lead with 14 and 11 Millions
     - By "es_grupo" "Yes" wins by a lot 10.7 against 0.6 for "No"
 - How many contracts have positive added days? About 49. Not sure what to do with this right now
-- Are enough comparable contracts available within each group? Need to still check this
+- Are enough comparable contracts available within each group? Need to still check this. I am having groups for each attribution here:
+    - By rama, "Ejecutivo" dominates with 4069 records
+    - By "tipo_de_contrato" Prestación de servicios dominates with 4324 rows. 
+    - By "modalidad_de_contratacion" "Contratación directa" has 4048 records while the others are very few
+    - By "es_grupo" "No" wins by a lot 4958 against 42 for "Yes"
+    - The gender here also impacts but now I understand why... groups don't have a gender when it comes to legal representative... I thought they did but it seems like they do not
