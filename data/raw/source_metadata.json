@@ -10,7 +10,7 @@
   "description": "Información de los contratos registrados en SECOP II desde su lanzamiento",
   "diciBackend": false,
   "displayType": "table",
-  "downloadCount": 257006,
+  "downloadCount": 257031,
   "hideFromCatalog": false,
   "hideFromDataJson": false,
   "licenseId": "CC_40_BY_SA",
@@ -27,7 +27,7 @@
   "rowsUpdatedBy": "mb3d-8f4b",
   "tableId": 20691149,
   "totalTimesRated": 0,
-  "viewCount": 3011062,
+  "viewCount": 3011319,
   "viewLastModified": 1792907125,
   "viewType": "tabular",
   "approvals": [

@@ -1,6 +1,6 @@
 {
   "dataset_id": "jbjy-vk9h",
-  "extracted_at_utc": "2026-11-27T14:57:56.523924+00:00",
+  "extracted_at_utc": "2026-11-27T19:52:03.067528+00:00",
   "query_parameters": {
     "$where": "fecha_de_firma >= '2022-08-30T00:00:00' AND fecha_de_firma < '2026-08-07T00:00:00'",
     "$order": "fecha_de_firma ASC, id_contrato ASC",
